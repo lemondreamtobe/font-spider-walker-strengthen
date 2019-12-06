@@ -1,0 +1,28 @@
+{
+  "name": "font-splider-walker-strengthen",
+  "version": "1.0.1",
+  "description": "strengthen library of font-splider-walker",
+  "main": "bin/index.js",
+  "bin": {
+    "fsw": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemondreamtobe/font-splider-walker-strengthen.git"
+  },
+  "keywords": [
+    "font-splider",
+    "font-splider-walker"
+  ],
+  "author": "lemonzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemondreamtobe/font-splider-walker-strengthen/issues"
+  },
+  "homepage": "https://github.com/lemondreamtobe/font-splider-walker-strengthen#readme"
+}
+
+
