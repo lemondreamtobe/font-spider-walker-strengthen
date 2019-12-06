@@ -1,6 +1,6 @@
 {
   "name": "font-spider-walker-strengthen",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "strengthen library of font-spider-walker",
   "main": "bin/index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lemondreamtobe/font-splider-walker-strengthen.git"
+    "url": "git+https://github.com/lemondreamtobe/font-spider-walker-strengthen.git"
   },
   "dependencies": {
     "chalk": "^2.4.1",
@@ -28,9 +28,9 @@
   "author": "lemonzhang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lemondreamtobe/font-splider-walker-strengthen/issues"
+    "url": "https://github.com/lemondreamtobe/font-spider-walker-strengthen/issues"
   },
-  "homepage": "https://github.com/lemondreamtobe/font-splider-walker-strengthen#readme"
+  "homepage": "https://github.com/lemondreamtobe/font-spider-walker-strengthen#readme"
 }
 
 
